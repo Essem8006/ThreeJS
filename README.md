@@ -2,5 +2,6 @@
 
 Learning how to use the general principles of AI to create a simple chess computer.
 
-* Requirements *
+Requirements:
 * Must be able to beat me
+* Must use a form of machine learning only to decide moves
